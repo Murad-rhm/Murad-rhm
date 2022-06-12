@@ -5,4 +5,6 @@ Command:
 
 apt update
 apt upgrade 
-git clone 
+git clone https://github.com/Murad-rhm/Murad-rhm
+cd Murad-rhm
+python3 Murad_Ridoy.py
